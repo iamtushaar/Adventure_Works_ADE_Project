@@ -1,6 +1,8 @@
 # Adventure_Works_ADE_Project
 
-Developed a fully automated data pipeline for processing Adventure Works data leveraging Azure cloud technologies. Key project steps include:
+Developed a fully automated data pipeline for processing Adventure Works data leveraging Azure cloud technologies.
+
+![image](https://github.com/iamtushaar/Adventure_Works_ADE_Project/blob/f614aa54144b8b2459a2887adf52ad16c2e883b1/Screenshots/End-To-End%20Pipeline.png)
 
 Data Ingestion:
 Utilized Azure Data Factory (ADF) to copy 10 CSV files from GitHub to the raw zone of Azure Data Lake Storage (ADLS). The process employed parameterized datasets and dynamic folder placements through a single copy activity for streamlined data organization.
